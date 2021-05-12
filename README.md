@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: </br>
-    Matrix: @hosaidenpwd:matrix.org
+    @hosaidenpwd:matrix.org
 
 <!---
 hossein-lap/hossein-lap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
