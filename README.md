@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning C++
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: </br>
-    Telegram: @disappeared_H </br>
-    E-mail: hosteam01@gmail.com </br>
-    Matrix: @hosn3rd:matrix.org
+    Matrix: @hosaidenpwd:matrix.org
 
 <!---
 hossein-lap/hossein-lap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
