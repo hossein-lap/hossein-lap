@@ -1,9 +1,9 @@
 
-### Hos
+## Hos
 
 All my dotfiles and project will appear in this repository.
 
-just a regular TeXguy with a passion about open-source
+just a regular TeXguy with a passion about open-source.
 
 ### Languages
 
@@ -11,7 +11,6 @@ just a regular TeXguy with a passion about open-source
 - Python
 - Lua
 - Bash
-- LaTeX
 
 ### Workflow
 
@@ -19,9 +18,13 @@ just a regular TeXguy with a passion about open-source
 - Tmux
 - (Neo)vim
 - Git
-- Markdown
 - GNU core utilities
 - Suckless tools
+
+### Documenting
+- LaTeX
+- Markdown
+- Groff
 
 I love the concept of libre soft/hardware
 
@@ -31,13 +34,11 @@ Also I am going to become a DevOps engineer, so I'm learning
 - [ ] Ansible
 - [ ] Kubernetes
 
-- Code and Cup of Coffee
-
-#### Contact:
+### Contact:
 
 - mail: hosteam01@gmail.com
 
-#### Todo List:
+### Todo List:
 
 - [x] push vim configurations
 - [x] push suckless build
