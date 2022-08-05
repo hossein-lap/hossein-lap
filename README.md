@@ -1,18 +1,17 @@
-
-## Hos
+# Hos
 
 All my dotfiles and project will appear in this repository.
 
 just a regular TeXguy with a passion about open-source.
 
-### Languages
+## Languages
 
 - C
 - Python
 - Lua
 - Bash
 
-### Workflow
+## Workflow
 
 - Linux
 - Tmux
@@ -21,7 +20,7 @@ just a regular TeXguy with a passion about open-source.
 - GNU core utilities
 - Suckless tools
 
-### Documenting
+## Documenting
 - LaTeX
 - Markdown
 - Groff
@@ -34,11 +33,11 @@ Also I am going to become a DevOps engineer, so I'm learning
 - [ ] Ansible
 - [ ] Kubernetes
 
-### Contact:
+## Contact:
 
 - mail: hosteam01@gmail.com
 
-### Todo List:
+## Todo List:
 
 - [x] push vim configurations
 - [ ] push suckless build
@@ -47,12 +46,3 @@ Also I am going to become a DevOps engineer, so I'm learning
 - [ ] update dotfiles and add the new ones
 - [ ] linkedin profile
 
-<!---
--- Not Working --
-> I added a Makefile to create a pdf version
-> it's using LaTeX 
-> and `lowdown` to create the `TeX` file
-
-primejade/primejade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
