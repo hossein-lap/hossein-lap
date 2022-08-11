@@ -4,7 +4,7 @@ All my dotfiles and projects will appear in this repository.
 
 Just a regular TeXguy with a passion about open-source and trees.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lackofleak&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein-lap&show_icons=true&theme=radical)
 
 ## Languages
 
