@@ -1,8 +1,8 @@
 # Hos
 
-All my dotfiles and project will appear in this repository.
+All my dotfiles and projects will appear in this repository.
 
-just a regular TeXguy with a passion about open-source.
+Just a regular TeXguy with a passion about open-source and trees.
 
 ## Languages
 
