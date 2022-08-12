@@ -42,7 +42,7 @@ Also I am going to become a DevOps engineer, so I'm learning:
 - [x] push vim configurations
 - [x] push suckless build
 - [x] push neovim workflow configurations
-- [ ] push cheatsheets
+- [ ] push cheat-sheets
 - [ ] update dotfiles and add the new ones
 - [ ] linkedin profile
 
