@@ -4,9 +4,11 @@ All my dotfiles and projects will appear in this repository.
 
 Just a regular TeXguy with a passion about open-source and trees.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein-lap&show_icons=true&theme=dark)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein-lap&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-lap&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-lap&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hossein-lap&repo=dmenu)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hossein-lap&repo=scripts)](https://github.com/anuraghazra/github-readme-stats) |
+
+
 ## Languages
 
 - C
