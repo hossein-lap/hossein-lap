@@ -10,9 +10,9 @@ Just a regular TeXguy with a passion about open-source and trees.
 ## Languages
 
 - C
-- Python
 - Lua
 - Bash
+- Python
 
 ## Workflow
 
