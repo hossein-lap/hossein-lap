@@ -1,14 +1,14 @@
 # Hos
 
-All my dotfiles and projects will appear in this repository.
+All my dotfiles/builds and projects will appear in this repository.
 
-Just a regular TeXguy with a passion about open-source and trees.
+Just a regular guy with a passion about open-source and trees.
 
 ## Languages
 
-- C
 - Lua
 - Bash
+- C
 - Python
 
 ## Workflow
@@ -25,22 +25,22 @@ Just a regular TeXguy with a passion about open-source and trees.
 - Markdown
 - Groff
 
-I love the concept of libre soft and hardware.
+I love the concept of libre soft/hardware.
 
-Also I am going to become a DevOps engineer, so I'm learning:
+Also I am going to become a DevOps engineer, so I'm learning and always be learning :)
 
-- [ ] Docker
-- [ ] Ansible
-- [ ] Kubernetes
+- Docker
+- Ansible
+- Kubernetes
 
 ## Contact:
 
 - mail: hosteam01@gmail.com
 
-## Todo List:
+## ToDo
 
-- [x] push vim configurations
 - [x] push suckless build
+- [x] push vim configurations
 - [x] push neovim workflow configurations
 - [ ] push cheat-sheets
 - [ ] update dotfiles and add the new ones
