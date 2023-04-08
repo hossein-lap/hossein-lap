@@ -1,6 +1,6 @@
 # Hos
 
-Lua and Bash programmer with a passion about open-source and trees. Trying to
+Lua and bash programmer with a passion about open-source and trees. Trying to
 be up to date, thus I'm always learning and will continue to do so. Love the
 concept of Libre software and hardware. Suckless guy who likes to read and
 write - and execute ;)
