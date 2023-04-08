@@ -27,6 +27,8 @@ Just a regular guy with a passion about open-source and trees.
 
 I love the concept of libre soft/hardware.
 
+## Going to learn
+
 Also I am going to become a DevOps engineer, so I'm learning and always be learning :)
 
 - Docker
@@ -42,7 +44,7 @@ Also I am going to become a DevOps engineer, so I'm learning and always be learn
 - [x] push suckless build
 - [x] push vim configurations
 - [x] push neovim workflow configurations
-- [ ] push cheat-sheets
-- [ ] update dotfiles and add the new ones
+- [x] push cheat-sheets
+- [x] update dotfiles and add the new ones
 - [ ] linkedin profile
 
