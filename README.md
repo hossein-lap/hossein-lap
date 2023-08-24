@@ -11,10 +11,10 @@ to enter this field in the right way.
 
 ## Languages
 
-+ Lua
-+ Bash
-+ C
-+ Python
+|       |   |
+|-------|---|
+| + Lua | + Bash |
+| + C | + Python |
 
 ## Workflow
 
