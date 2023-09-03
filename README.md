@@ -5,14 +5,13 @@ Trying to be up to date, thus I'm always learning and will continue to do so.
 Love the concept of Libre software and hardware. Suckless guy who likes to read
 and write - and execute ;)
 
-I've become to like the philosophy of DevOps. The path I had chosen was towards
-DevOps without realizing it. After becoming aware of this matter, I've decided
-to enter this field in the right way.
+The path I had chosen was towards DevOps without realizing it.
+After becoming aware of the matter, I've decided to enter the field.
 
 ## Languages
 
 + Lua
-+ Bas
++ Bash
 + C
 + Python
 
@@ -22,10 +21,10 @@ to enter this field in the right way.
 + Tmux
 + (Neo)vim
 + Git
-+ GNU core utilities
++ Core utilities
 + Suckless tools
 
-## Documenting
+## Documenting -- writing
 
 + LaTeX
 + Markdown
@@ -40,6 +39,7 @@ to enter this field in the right way.
 ## Contact:
 
 + mail: hosteam01@gmail.com
++ telegram: t.me/primejade
 
 ## ToDo
 
