@@ -26,12 +26,3 @@ Suckless guy who likes to read and write - and execute ;)
 + OpenShift
 + OpenStack
 
-## ToDo
-
-+ [x] push suckless build
-+ [x] push vim configurations
-+ [x] push neovim workflow configurations
-+ [x] push cheat-sheets
-+ [x] update dotfiles and add the new ones
-+ [x] linkedin profile
-
