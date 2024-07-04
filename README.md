@@ -1,45 +1,30 @@
-# Hos
+# About Me
 
-Lua and bash programmer with a passion about open-source software and trees.
+Hey, I'm Hossein!
+
+Lua and go programmer with a passion about open-source software and trees.
 Trying to be up to date, thus I'm always learning and will continue to do so.
-Love the concept of Libre software and hardware. Suckless guy who likes to read
-and write - and execute ;)
 
-The path I had chosen was towards DevOps without realizing it.
-After becoming aware of the matter, I've decided to enter the field.
+Suckless guy who likes to read and write - and execute ;)
 
 ## Languages
 
-+ Lua
-+ Bash
-+ C
-+ Python
++ Lua, Go, Bash, C, Python
 
 ## Workflow
 
-+ Linux
-+ Tmux
-+ (Neo)vim
-+ Git
-+ Core utilities
-+ Suckless tools
++ Linux, tmux, Vim, git, core-utils, qemu, docker
 
 ## Documenting -- writing
 
-+ LaTeX
-+ Markdown
-+ Groff
++ LaTeX, Markdown, groff, AsciiDoc
 
-## Going to learn
+## Need to learn / improve
 
-+ Docker
 + Ansible
-+ Kubernetes
-
-## Contact:
-
-+ mail: hosteam01@gmail.com
-+ telegram: t.me/primejade
++ Helm
++ OpenShift
++ OpenStack
 
 ## ToDo
 
@@ -48,5 +33,5 @@ After becoming aware of the matter, I've decided to enter the field.
 + [x] push neovim workflow configurations
 + [x] push cheat-sheets
 + [x] update dotfiles and add the new ones
-+ [ ] linkedin profile
++ [x] linkedin profile
 
