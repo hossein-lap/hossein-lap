@@ -4,7 +4,6 @@ Hey, I'm Hossein!
 
 Lua and go programmer with a passion about open-source software and trees.
 Trying to be up to date, thus I'm always learning and will continue to do so.
-
 Suckless guy who likes to read and write - and execute ;)
 
 == Languages
@@ -13,11 +12,15 @@ Suckless guy who likes to read and write - and execute ;)
 
 == Workflow
 
-* Linux, tmux, Vim, git, core-utils, qemu, docker
+* Linux, tmux, Vim, git, QEMU, Docker
 
 == Documenting -- writing
 
 * LaTeX, Markdown, groff, AsciiDoc
+
+== Experiences
+
+* K8S
 
 == Need to learn / improve
 
@@ -25,4 +28,10 @@ Suckless guy who likes to read and write - and execute ;)
 * Helm
 * OpenShift
 * OpenStack
+
+// -
+
+* Elixir
+* LXC
+* BSDs
 
