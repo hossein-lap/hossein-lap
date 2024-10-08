@@ -2,9 +2,11 @@
 
 Hey, I'm Hossein!
 
-Lua and go programmer with a passion about open-source software and trees.
-Trying to be up to date, thus I'm always learning and will continue to do so.
-Suckless guy who likes to read and write - and execute ;)
+* Lua and Go programmer with a passion about open-source software and trees.
+* DevOps Engineer with a focus on automation, CI/CD pipelines, and cloud
+  infrastructure, driven by a keen interest in efficiency and scalability.
+* Linux user who lives in his shell and never redirects `stderr` to `/dev/null`.
+* Suckless guy who enjoys reading, writing, and executing ;)
 
 == Languages
 
@@ -18,10 +20,7 @@ Suckless guy who likes to read and write - and execute ;)
 
 * LaTeX, Markdown, groff, AsciiDoc
 
-== Experiences
-
-* K8S
-
+////
 == Need to learn / improve
 
 * Ansible
@@ -29,9 +28,9 @@ Suckless guy who likes to read and write - and execute ;)
 * OpenShift
 * OpenStack
 
-// -
-
 * Elixir
 * LXC
 * BSDs
+
+////
 
